@@ -2,11 +2,13 @@ def addtion(num1, num2)
   return num1 + num2
 end
 addition(8,9)
+
 def subtraction(num1, num2)
  
   return num1 - num2
 end
  subtraction(9,3)
+ 
 def multiplication(num1,num2)
 
   return num1 * num2
@@ -16,6 +18,7 @@ def divisiion (num1, num2)
   return num1 - num2
 end
  division (8,2)
+ 
 def modulo (num1, num2)
   return num1 % num2
 end
@@ -25,6 +28,6 @@ def square_root(num)
    
    return num**2
  end
- 
+ square_root(8) 
  
   
