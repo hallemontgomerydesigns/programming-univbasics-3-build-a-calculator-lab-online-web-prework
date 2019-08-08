@@ -16,12 +16,12 @@ end
 def divisiion (num1, num2)
   return num1 - num2
 end
-divisiion(9/3)
+divisiion(9,3)
  
 def modulo (num1, num2)
   return num1 % num2
 end
-modulo ()
+modulo ( 3,6)
 
 
 def square_root(num)
@@ -29,5 +29,6 @@ def square_root(num)
    return num**2
  end
  
+ square_root(81)
  
   
